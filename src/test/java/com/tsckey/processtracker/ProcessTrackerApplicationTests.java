@@ -1,0 +1,13 @@
+package com.tsckey.processtracker;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ProcessTrackerApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
