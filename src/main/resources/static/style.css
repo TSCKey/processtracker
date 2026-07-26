@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2rem;
+}
+
+#tasksTable {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+#tasksTable td,
+#tasksTable th {
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    text-align: left;
+}
+
+#tasksTable tr:first-child {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+#new-task-form {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+#new-task-form input,
+#new-task-form select {
+    padding: 6px;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Process Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Process Tracker</h1>
+<div>
+    <h2>Tasks</h2>
+</div>
+
+<div id="new-task-form">
+    <input type="text" id="new-task-name" placeholder="Name">
+    <input type="text" id="new-task-description" placeholder="Description">
+    <select id="new-task-status">
+        <option value="offen">offen</option>
+        <option value="in_arbeit">in_arbeit</option>
+        <option value="erledigt">erledigt</option>
+    </select>
+    <button id="add-task" onclick="addTask()">Add Task</button>
+</div>
+
+<table id="tasksTable">
+    <tr>
+        <td>Name</td>
+        <td>Description</td>
+        <td>Status</td>
+        <td></td>
+    </tr>
+</table>
+
+<script src="app.js"></script>
+</body>
+</html>
