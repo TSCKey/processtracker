@@ -42,7 +42,7 @@ Die Anwendung wurde mit Spring Boot und einem einfachen HTML-, CSS- und JavaScri
 
 ### KI-Einsatz
 
-KI wurde hauptsächlich zum Refactoring des Codes, zur Unterstützung bei der Fehlersuche und -behebung sowie zur Verbesserung des Frontend-Layouts eingesetzt. Die Architektur, Implementierung und abschließende Integration wurden eigenständig umgesetzt und überprüft.
+KI wurde hauptsächlich zum Refactoring des Codes, zur Unterstützung bei der Fehlersuche und -behebung, zur Verbesserung des Frontend-Layouts sowie zur Formulierung und Überarbeitung von Dokumentationstexten eingesetzt. Die Architektur, Implementierung und abschließende Integration der Anwendung wurden eigenständig umgesetzt und überprüft.
 
 ---
 
@@ -84,4 +84,4 @@ The application was implemented with Spring Boot and a simple HTML, CSS, and Jav
 
 ### AI usage
 
-AI was primarily used for code refactoring, assistance with debugging and error fixing, and improving the frontend layout. The overall architecture, implementation, and final integration were completed and verified independently.
+AI was primarily used for code refactoring, debugging and error fixing, improving the frontend layout, and assisting with writing and refining documentation. The overall architecture, implementation, and final integration of the application were completed and verified independently.
